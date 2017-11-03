@@ -4,7 +4,7 @@ import shutil
 import numpy as np
 from six.moves import range
 
-from src import image_gen
+import image_gen
 
 # from keras.preprocessing import image
 

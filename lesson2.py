@@ -9,7 +9,7 @@ from keras.preprocessing import image
 from sklearn.preprocessing import OneHotEncoder
 from utils import get_data
 
-from src.vgg16 import Vgg16
+from vgg16 import Vgg16
 
 # os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
 # os.environ["CUDA_VISIBLE_DEVICES"] = "0"
